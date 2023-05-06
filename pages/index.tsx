@@ -127,9 +127,7 @@ const Home: NextPage = () => {
         ) : undefined}
       </main>
 
-      <footer className="flex h-24 w-full items-center justify-center">
-    
-      </footer>
+     
     </div>
   );
 };
